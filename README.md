@@ -13,3 +13,8 @@ A simple console-based Java app to manage daily tasks.
 ## 🚀 How to Run
 
 1. Compile the code:
+
+2. Run the app:
+
+## 🖥 Menu Options
+
